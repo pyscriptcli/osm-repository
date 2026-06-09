@@ -1,0 +1,78 @@
+﻿{
+    "provinces":  {
+                      "tarlac":  {
+                                     "size_mb":  0.03,
+                                     "poi_count":  392,
+                                     "file":  "tarlac.json"
+                                 },
+                      "pangasinan":  {
+                                         "size_mb":  0.84,
+                                         "poi_count":  11559,
+                                         "file":  "pangasinan.json"
+                                     },
+                      "metro_manila":  {
+                                           "size_mb":  3.78,
+                                           "poi_count":  55060,
+                                           "file":  "metro_manila.json"
+                                       },
+                      "rizal":  {
+                                    "size_mb":  0.48,
+                                    "poi_count":  6881,
+                                    "file":  "rizal.json"
+                                },
+                      "bulacan":  {
+                                      "size_mb":  0.51,
+                                      "poi_count":  7103,
+                                      "file":  "bulacan.json"
+                                  },
+                      "batangas":  {
+                                       "size_mb":  0.53,
+                                       "poi_count":  7539,
+                                       "file":  "batangas.json"
+                                   },
+                      "ilocos_norte":  {
+                                           "size_mb":  0.1,
+                                           "poi_count":  1340,
+                                           "file":  "ilocos_norte.json"
+                                       },
+                      "nueva_ecija":  {
+                                          "size_mb":  0.32,
+                                          "poi_count":  4291,
+                                          "file":  "nueva_ecija.json"
+                                      },
+                      "cavite":  {
+                                     "size_mb":  0.48,
+                                     "poi_count":  7063,
+                                     "file":  "cavite.json"
+                                 },
+                      "zambales":  {
+                                       "size_mb":  0.43,
+                                       "poi_count":  6085,
+                                       "file":  "zambales.json"
+                                   },
+                      "ilocos_sur":  {
+                                         "size_mb":  0.09,
+                                         "poi_count":  1227,
+                                         "file":  "ilocos_sur.json"
+                                     },
+                      "laguna":  {
+                                     "size_mb":  0.84,
+                                     "poi_count":  12125,
+                                     "file":  "laguna.json"
+                                 },
+                      "pampanga":  {
+                                       "size_mb":  0.58,
+                                       "poi_count":  8162,
+                                       "file":  "pampanga.json"
+                                   },
+                      "la_union":  {
+                                       "size_mb":  0.16,
+                                       "poi_count":  2129,
+                                       "file":  "la_union.json"
+                                   }
+                  },
+    "created":  "2026-06-09 21:49:59",
+    "source_file":  "philippines-260608.osm.pbf",
+    "version":  "1.0",
+    "total_pois":  130956
+}
