@@ -1,0 +1,39 @@
+﻿{
+    "version":  "1.0",
+    "source":  "faeldon/philippines-json-maps",
+    "files":  {
+                  "regions":  {
+                                  "url":  "https://raw.githubusercontent.com/pyscriptcli/osm-repository/main/boundaries/regions.geojson",
+                                  "filename":  "regions.geojson",
+                                  "type":  "region",
+                                  "count":  88,
+                                  "size_mb":  5.03
+                              },
+                  "cities":  {
+                                 "url":  "https://raw.githubusercontent.com/pyscriptcli/osm-repository/main/boundaries/cities.geojson",
+                                 "filename":  "cities.geojson",
+                                 "type":  "city",
+                                 "count":  1619,
+                                 "size_mb":  10.14
+                             },
+                  "provinces":  {
+                                    "url":  "https://raw.githubusercontent.com/pyscriptcli/osm-repository/main/boundaries/provinces.geojson",
+                                    "filename":  "provinces.geojson",
+                                    "type":  "province",
+                                    "count":  1619,
+                                    "size_mb":  10.14
+                                },
+                  "country":  {
+                                  "url":  "https://raw.githubusercontent.com/pyscriptcli/osm-repository/main/boundaries/country.geojson",
+                                  "size_mb":  0.57,
+                                  "filename":  "country.geojson",
+                                  "type":  "country"
+                              }
+              },
+    "description":  "Philippine administrative boundaries index",
+    "by_psgc":  {
+
+                },
+    "last_updated":  "2026-06-09 23:41:23",
+    "base_url":  "https://raw.githubusercontent.com/pyscriptcli/osm-repository/main/boundaries"
+}
